@@ -1,12 +1,4 @@
-# Dat Nguyen
-# dattn10@uci.edu
-# 46759936
-
-# Profile.py
-#
-# ICS 32
-# Assignment #2: Journal
-#
+# Instructor-given code, however, reformatted to fit within pycodestyle requirements
 # Author: Mark S. Baldwin, modified by Alberto Krone-Martins
 #
 # v0.1.9
