@@ -1,10 +1,3 @@
-
-
-# Dat Nguyen
-# dattn10@uci.edu
-# 46759936
-
-
 from pathlib import Path
 import ui
 
