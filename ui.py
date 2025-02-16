@@ -1,9 +1,3 @@
-
-# Dat Nguyen
-# dattn10@uci.edu
-# 46759936
-
-
 import Profile
 import os
 
